@@ -15,8 +15,8 @@ function mulberry32(seed: number) {
 }
 
 export const SCHOOL = {
-  name: "Scholaris International Academy",
-  short: "Scholaris",
+  name: "Cachi-Cloud International Academy",
+  short: "Cachi-Cloud",
   session: "2025/2026",
   motto: "Knowledge · Character · Service",
   address: "14 Cedarwood Avenue, GRA Phase II, Ikeja",
